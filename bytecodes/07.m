@@ -8,4 +8,3 @@ pop
 pall
 pop
 pall
-© 2022 GitHub, Inc.
